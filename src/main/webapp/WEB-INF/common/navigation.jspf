@@ -1,0 +1,7 @@
+<header>
+		<div class="navbar">
+		  <a class="active" href="#"><i class="fa fa-fw fa-home"></i> TODOS</a>
+		  <a href="#"><i ></i> Welcome <span class=" text-werning"><b> ${username}</b></span></a>
+		  <a href="logout"><i class="fa fa-fw fa-user"></i> Logout</a>
+		</div>
+</header>
